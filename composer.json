@@ -1,13 +1,13 @@
 {
     "name": "azamsho1111/laravel-railway-ready",
     "type": "project",
-    "description": "Laravel project ready for Railway deployment",
+    "description": "Laravel 12 project ready for Railway deployment",
     "keywords": ["laravel", "api", "railway", "deployment"],
     "license": "MIT",
     "require": {
         "php": "^8.2",
         "guzzlehttp/guzzle": "^7.8",
-        "laravel/framework": "^11.0",
+        "laravel/framework": "^12.0",
         "laravel/sanctum": "^4.0",
         "laravel/tinker": "^2.9"
     },
